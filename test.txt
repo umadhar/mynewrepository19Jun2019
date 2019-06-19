@@ -2,3 +2,4 @@ Hello
 Bolo
 Testing to conflict it. 
 Adding additional line to merge this branch from console to master
+Adding 5th Test to merge directly to master rather change number hash.
