@@ -1,3 +1,7 @@
 Hello
 Bolo
+<<<<<<< HEAD
 It is the actual Conflict to merge to master. 
+=======
+Testing to conflict it. 
+>>>>>>> d11b3c4f712420705b0c9f7e1243729dcd62e0eb
