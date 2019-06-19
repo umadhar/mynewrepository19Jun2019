@@ -1,3 +1,4 @@
 Hello
 Bolo
 Testing to conflict it. 
+Adding additional line to merge this branch from console to master
